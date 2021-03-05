@@ -1,0 +1,10 @@
+2021-03-05 23:53:54,275 DEBUG o.j.l.LoggerProviders [main] Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2021-03-05 23:53:54,330 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+2021-03-05 23:53:54,359 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+2021-03-05 23:53:54,365 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+2021-03-05 23:53:54,372 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].
+2021-03-05 23:56:20,535 DEBUG o.j.l.LoggerProviders [main] Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2021-03-05 23:56:20,605 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+2021-03-05 23:56:20,617 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+2021-03-05 23:56:20,625 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+2021-03-05 23:56:20,786 DEBUG o.h.i.i.IntegratorServiceImpl [main] Adding Integrator [org.hibernate.envers.boot.internal.EnversIntegrator].
