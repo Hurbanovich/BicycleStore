@@ -1,4 +1,4 @@
-package com.example.BicycleStore;
+package controllrs;
 
 import java.io.*;
 import javax.servlet.http.*;
