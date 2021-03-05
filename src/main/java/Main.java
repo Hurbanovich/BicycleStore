@@ -10,7 +10,7 @@ public class Main {
         System.out.println(3);
         userService.saveUser(user);
         System.out.println(4);
-       // System.out.println(userService.findUser(1));
+        System.out.println(userService.findUser(1));
 
     }
 }
